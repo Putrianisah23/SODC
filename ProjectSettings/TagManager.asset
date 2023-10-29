@@ -9,6 +9,9 @@ TagManager:
   - Socket
   - TutorialTrigger
   - Notif
+  - NotifS11
+  - NotifS12
+  - NotifS13
   layers:
   - Default
   - TransparentFX
