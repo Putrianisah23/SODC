@@ -29774,8 +29774,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Kalibrasi patchcore yang dilakukan berulang sebanyak 3 pengukuran yang
-    benar di lakukan adalah melepas patchcore uji berada disisi
+  m_text: Kalibrasi patchcord yang dilakukan berulang sebanyak 3 pengukuran yang
+    benar di lakukan adalah melepas patchcord uji berada disisi
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0504c52fd99563342a9a5e342fb477c9, type: 2}
   m_sharedMaterial: {fileID: -4090465627311804775, guid: 0504c52fd99563342a9a5e342fb477c9,
@@ -49692,7 +49692,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Alat :
 
-    3 buah pathcore, barel adapter, OLS, OPM'
+    3 buah pathcord, barel adapter, OLS, OPM'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0504c52fd99563342a9a5e342fb477c9, type: 2}
   m_sharedMaterial: {fileID: -4090465627311804775, guid: 0504c52fd99563342a9a5e342fb477c9,
